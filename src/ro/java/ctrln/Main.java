@@ -1,14 +1,24 @@
 package ro.java.ctrln;
 
 public class Main {
-    // JAR - Java Archive
-    public static void main(String[] /* test */  args) {
+
+    /**
+     * Metoda main este metoda apelata de
+     * masina virtuala Java si care
+     * porneste o aplicatie Java.
+     *
+     *
+     * @param args
+     *
+     * Acesta este parametrul cu care
+     * transmitem argumente
+     * programului nostru
+     *
+     * @author gcraia
+     */
+    public static void main(String[] args) {
 	    System.out.println("Invat Java!");
-/*
-Comentarii pe
-mai multe
-l i n i i
- */
+
         System.out.println("test");
     }
 }
